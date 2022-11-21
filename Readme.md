@@ -9,14 +9,13 @@
 - Add or remove images from `assets/img/` directory as per your requirement.
 - Update the info of `projects` folder according to your need
 - Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<https://github.com/Rodhi2>.` and push the generated code to the `master` branch.
+- To deploy your website, first you need to create github repository with name `<https://github.com/Rodhi2>.` and push the generated code to the `main` branch.
 
 ## Sections 📚
 ✔️ About\
 ✔️ Education\
 ✔️ Online Certification\
 ✔️ Projects \
-✔️ Skills \
 ✔️ Resume\
 ✔️ Contact Info
 
