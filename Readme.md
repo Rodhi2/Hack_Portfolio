@@ -3,7 +3,6 @@
 :star: Star me on GitHub — it helps!
 
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rodhifaisalmufid/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> 
